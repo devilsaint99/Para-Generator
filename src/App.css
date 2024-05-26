@@ -1,0 +1,30 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  text-align: center;
+}
+.input-gen {
+  display: flex;
+  align-items: center;
+  width: 80%;
+}
+
+.input-gen input{
+  height:40px;
+  width:100%
+}
+
+.input-gen button{
+  height:40px;
+  width:7%;
+  margin-left:20px;
+  background-color:rgb(42, 41, 41);
+  color: white;
+  border-radius: 10px
+}
+
+.text-gen{
+  margin: 2%;
+}
